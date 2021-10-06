@@ -40,3 +40,12 @@ Chisel 代码模版
 [scala结构体](https://www.scala-sbt.org/1.x/docs/Directories.html)
 
 [scala命名规则](http://docs.scala-lang.org/style/naming-conventions.html)
+
+# 环境配置
+
+推荐使用IntelliJ IDEA 社区版
+
+首先在插件中安装`Scala` 插件
+![](scala.png)
+
+然后用IDE打开本项目，IDE会根据`build.sbt`下载相应的库与文件即可使用。
