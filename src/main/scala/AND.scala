@@ -1,7 +1,7 @@
 package MyModules
 
 import chisel3._
-
+import testchipip._
 
 class MyModule extends Module {
     val io = IO(new Bundle {
